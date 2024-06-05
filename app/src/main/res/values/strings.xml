@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Free Hot Dog</string>
+    <string name="todo">TODO</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="phone">Teléfono</string>
+    <string name="password">Contraseña</string>
+    <string name="create">Crear</string>
+</resources>
